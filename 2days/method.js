@@ -12,3 +12,4 @@ let shoes = ["nike", "adidas", "puma", "reebo"]
 
  shoes[4] = "airforce"
  console.log(shoes)
+ 
