@@ -22,3 +22,5 @@ console.log(`pi ko vlaue ${pi} hun xa`)
 console.log(`${isRaining} aaj pani parxa r`)
 
 
+console.log("mero age " + age + "ho")
+
